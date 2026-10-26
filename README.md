@@ -1,2 +1,1 @@
-# memory-games
-Memory Games
+# Memory Games
