@@ -12,3 +12,9 @@ Then you select the mode of the game,
 - Easy mode: After you memorize, the words you memorized are scrambled and you need to place them correctly (i.e. the same word in different languages should be together), in the same order.
 - Medium mode: Same as easy mode, except after you memorize, you will be given *random extra* words in addition to the ones you memorized, all scrambled together. You need to recognize which ones was in the list you memorize, and which ones wasn't.
 - Hard mode: After you memorize, you are asked to *type* all of them out correctly, in the same order.
+
+## Resources
+The txt files are the vocabulary list, and the word order are correspondent between languages, to respect the mapping of the translation. The English file contains common words in the English dictionary from the Internet, and the French/Spanish files were subsequent Google Translation of the English file.
+
+## Future work
+Aimed at adding more languages, and improve the code to make it automatable/easier to add languages.
