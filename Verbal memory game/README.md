@@ -17,4 +17,4 @@ Then you select the mode of the game,
 The txt files are the vocabulary list, and the word order are correspondent between languages, to respect the mapping of the translation. The English file contains common words in the English dictionary from the Internet, and the French/Spanish files were subsequent Google Translation of the English file.
 
 ## Future work
-Aimed at adding more languages, and improve the code to make it automatable/easier to add languages.
+Aiming to add more languages, and improve the code to make it automatable/easier to add languages.
